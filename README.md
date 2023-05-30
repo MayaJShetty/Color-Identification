@@ -1,4 +1,4 @@
-# Color-Detection-using-Pandas-and-OpenCV
+# Color-Identification
 
 Color Detection using Pandas and OpenCV is a project that aims to identify and
 analyze specific colors in an image. By leveraging OpenCV's image processing
